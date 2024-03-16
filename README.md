@@ -1,6 +1,6 @@
-#############################
+
 ## Currency Converter      ##
-#############################
+
 
 This Python script provides a simple currency converter for converting between GTA$ (the in-game currency of the Grand Theft Auto series) and USD (United States Dollar). It allows users to input an amount in either currency and converts it to the equivalent amount in the other currency based on a predefined conversion rate.
 
